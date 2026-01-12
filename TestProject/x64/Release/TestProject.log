@@ -1,0 +1,9 @@
+﻿  TestProject.cpp
+C:\Users\Пользователь\source\repos\TestProject\TestProject.cpp(101,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Пользователь\source\repos\TestProject\TestProject.cpp(322,48): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Пользователь\source\repos\TestProject\TestProject.cpp(351,48): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Пользователь\source\repos\TestProject\TestProject.cpp(417,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Пользователь\source\repos\TestProject\TestProject.cpp(421,30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Пользователь\source\repos\TestProject\TestProject.cpp(452,34): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Пользователь\source\repos\TestProject\TestProject.cpp(562,30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+LINK : fatal error LNK1181: cannot open input file 'sfml-audio.lib'
